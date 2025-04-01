@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gaietri
-- 👀 I’m interested in SQL and Python
-- 🌱 I’m currently learning Python
+- 👀 I love SQL
+- 🌱 I’m currently learning about Cybersecurity
 - 📫 Connect with me on LinkedIn 
 
 <!---
